@@ -1,0 +1,12 @@
+to-do/
+│
+├── app.py
+├── s.txt
+├── templates/
+│   └── index.html
+├── static/
+│   ├── css/
+│   │   └── styles.css
+│   └── js/
+│       └── scripts.js
+└── venv/
